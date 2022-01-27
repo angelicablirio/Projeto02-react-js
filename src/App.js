@@ -4,7 +4,7 @@ import './App.css'
 const destinos=[
   {local:"Salvador-BA", pais:"Brasil", tipo:"praia"},
   {local:"Rio de janeiro-RJ", pais:"Brasil", tipo:"praia"},
-  {local:"São Paulo-SP", pais:"Brasil", tipo:"praia"},
+  {local:"São Paulo-SP", pais:"Brasil", tipo:"cidade"},
   {local:"Londres", pais:"Inglaterra", tipo:"cidade"},
   {local:"Liverpool", pais:"Inglaterra", tipo:"cidade"},
   {local:"York", pais:"Inglaterra", tipo:"cidade"},
